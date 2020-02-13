@@ -1,1 +1,1 @@
-Application deployed at mrinaljs-weather-application.herokuapp.com/
+Application deployed at https://mrinaljs-weather-application.herokuapp.com/
